@@ -18,7 +18,7 @@ A soon-to-be graduate undergraduate student.
 ## 💡 Goals for 2023
 
 - Persist in learning English
-- Learn domain penetration well
+- Learn AD penetration well
 - TryHackMe enters top 1%
 - Persist in taking notes
 - Hope to become a red team
