@@ -27,7 +27,7 @@ A soon-to-be graduate undergraduate student.
 
 
 
-![img](https://tryhackme-badges.s3.amazonaws.com/F4n.png)
+<script src="https://tryhackme.com/badge/243573"></script>
 
 ![img](https://www.hackthebox.com/badge/image/192572)
 
