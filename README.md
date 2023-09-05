@@ -4,7 +4,7 @@
 
 ## 🧐 About
 
-A soon-to-be graduate undergraduate student.
+A FW
 
 
 
